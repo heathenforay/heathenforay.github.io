@@ -5,10 +5,6 @@
     <link>https://heathenforay.com/categories/</link>
     <description>Recent content in Categories on Heathen Foray - Melodic Death Metal from Austria</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
-    
-	<atom:link href="https://heathenforay.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-uk</language><atom:link href="https://heathenforay.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

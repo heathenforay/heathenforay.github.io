@@ -5,6 +5,8 @@
     <link>https://heathenforay.com/categories/</link>
     <description>Recent content in Categories on Heathen Foray - Pagan Metal from Austria</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language><atom:link href="https://heathenforay.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-uk</language>
+    <managingEditor>info@heathenforay.com (Heathen Foray)</managingEditor>
+    <webMaster>info@heathenforay.com (Heathen Foray)</webMaster><atom:link href="https://heathenforay.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

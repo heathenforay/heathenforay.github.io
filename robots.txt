@@ -1,0 +1,8 @@
+# Robots.txt for Heathen Foray website
+# https://www.heathenforay.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.heathenforay.com/sitemap.xml
